@@ -251,7 +251,7 @@ def update_table(from_date,to_date,s_range):
         style_data = {'whitespace': 'normal', 'height': 'auto', 'max-height': '200px','margin-left' : '5px','color' : '#DODODO','backgroundColor':'#202020','border':'1px solid #DODODO'}
         page_current = 0
         page_size = 10
-        sort_action = 'native'
+        sort_action = 'none'
         sort_mode = 'single'
         editable = True
         filter_action = 'native'
